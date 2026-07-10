@@ -129,7 +129,7 @@ The exploratory data analysis phase was performed to understand the dataset, ide
 
 ## Power BI Dashboard
 
-![Project Workflow](Images/dashboard.png)
+![Project Workflow](Images/Dashboard.png)
 
 ## 📌 Key Business Insights
 
