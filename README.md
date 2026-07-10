@@ -79,10 +79,31 @@ Creating Age Groups
 
 Customer Segmentation
 
-## Exploratory Data Analysis
+## 📈 Exploratory Data Analysis
 
-screenshot
-..............................................................
+The exploratory data analysis phase was performed to understand the dataset, identify missing values, examine feature distributions, and explore relationships between variables.
+
+### 📄 Dataset Preview
+
+![Dataset Preview](Images/dataset%20preview.png)
+
+---
+
+### 🧹 Missing Value Analysis
+
+![Missing Values](Images/Missing%20values.png)
+
+---
+
+### 📊 Product Category Distribution
+
+![Product Category Distribution](Images/Product%20Category%20Distribution.png)
+
+---
+
+### 🔥 Correlation Heatmap
+
+![Correlation Heatmap](Images/correction%20heatmap.png)
 
 ## 🗄️ SQL Business Questions
 
