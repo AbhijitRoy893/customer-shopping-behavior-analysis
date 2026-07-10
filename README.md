@@ -129,7 +129,7 @@ The exploratory data analysis phase was performed to understand the dataset, ide
 
 ## Power BI Dashboard
 
-Show dashboard screenshot.
+![Project Workflow](Images/dashboard.png)
 
 ## 📌 Key Business Insights
 
@@ -157,7 +157,6 @@ Show dashboard screenshot.
 
 - Monitor customer behavior using interactive dashboards.
 
-## Repository Structure
 
 ## 📂 Repository Structure
 
